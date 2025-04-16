@@ -1,2 +1,2 @@
 # Simplest-Rational-Approximation
-Simplest Rational Approximation
+Social media polls are everywhere, from X to Instagram. Personally, whenever I vote on a poll and see the percentage results so far, I always wonder how many people have responded. Especially when it's a smaller account, I wonder if the sample size is large enough to draw any conclusions. We know that X and instagram round poll results so far to the nearest whole number percentage. We can take one of these rounded percentages and see what the minimum number of answers necessary is to reach such a percentage.
